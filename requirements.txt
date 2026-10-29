@@ -1,0 +1,5 @@
+# Core Dependencies
+# Python 3.10+ standard library is used for the GUI (Tkinter), grammar parsing, and set generation.
+
+# Optional dependency for saving parse tree visualization as PNG
+pillow>=10.0.0
